@@ -1,0 +1,19 @@
+{
+  "name": "wp-plugin-wp-last-page-changes",
+  "version": "0.0.1",
+  "description": "Système d’information permettant de connaître la date et la personne ayant effectué la dernière modification sur une page WordPress.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epfl-si/wp-plugin-wp-last-page-changes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epfl-si/wp-plugin-wp-last-page-changes/issues"
+  },
+  "homepage": "https://github.com/epfl-si/wp-plugin-wp-last-page-changes#readme"
+}
