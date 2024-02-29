@@ -1,3 +1,7 @@
+
+> [!CAUTION]
+> This plugin now lives under the [wp-mu-plugins repository](https://github.com/epfl-si/wp-mu-plugins/), [here](https://github.com/epfl-si/wp-mu-plugins/blob/master/EPFL_last_page_changes.php).
+
 # wp-last-page-changes
 
 ## Description
